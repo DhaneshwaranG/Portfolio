@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
-import heroVideo from "../../assets/videos/Portfolio-self-Intro.mp4";
+import introVideo from "../../assets/videos/Portfolio-Self-Intro.mp4";
 import ReelModal from "./ReelModal";
 
 

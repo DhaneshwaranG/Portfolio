@@ -1,5 +1,5 @@
 import { motion, AnimatePresence } from "framer-motion";
-import reelVideo from "../../assets/videos/Portfolio-self-Intro.mp4";
+import reelVideo from "../../assets/videos/Portfolio-Self-Intro.mp4";
 
 function ReelModal({ isOpen, onClose }) {
   return (

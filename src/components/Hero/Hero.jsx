@@ -120,8 +120,8 @@ function Hero() {
               "
             >
               <a
-                href="/Resume/Dhaneshwaran_Resume.pdf"
-                download
+                href={`${import.meta.env.BASE_URL}Resume/DhaneshwaranResume.pdf`}
+  download="DhaneshwaranResume.pdf"
                 className="
                   bg-red-500
                   px-5
